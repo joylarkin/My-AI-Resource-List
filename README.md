@@ -1,5 +1,5 @@
 # My-AI-Resource-List
-My opinionated list of Artificial Intelligence resources
+An opinionated list of Artificial Intelligence resources
 
 
 ## Featured AI Resources
@@ -12,6 +12,10 @@ My opinionated list of Artificial Intelligence resources
 ## AI Videos
 
 
+## AI Courses
+- [NLPfor.me 🔠⚡🤖🧠😃 - A Pay-What-You-Can (PWYC) Microcourse in Natural Language Processing](https://github.com/nlpfromscratch/nlpfor.me)
+
+
 ## AI Language Models
 
 
@@ -20,4 +24,7 @@ My opinionated list of Artificial Intelligence resources
 
 
 ## Applications with AI
+
+
+
 
