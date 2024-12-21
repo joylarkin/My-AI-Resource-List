@@ -9,6 +9,10 @@ A proposal to standardise on using an /llms.txt file to provide information to h
 Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
+## AI Event Calendars
+- [Cerebral Valley Events](https://cerebralvalley.ai/events)
+
+
 ## AI Articles
 - [ARC Prize - OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 
