@@ -1,5 +1,4 @@
 # My-AI-Resource-List
-An opinionated repository of Artificial Intelligence resources.
 
 
 ## Featured AI Resources
