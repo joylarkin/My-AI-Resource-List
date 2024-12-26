@@ -13,8 +13,12 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [AIhub - Events](https://aihub.org/events/)
 - [Confs.tech - Data/AI](https://confs.tech/?online=hybrid&topics=data)
 - [Conference Locate - Global Artificial Intelligence Events](https://www.clocate.com/conferences-on+artificial-intelligence-ai/c3UtMTQ4/)
+
+
+## AI Event Calendars By Locale
 - [lu.ma - Discover](https://lu.ma/discover)
 - [Meetup - Artificial Intelligence](https://www.meetup.com/find/?source=EVENTS&keywords=artificial%20intelligence&location=us--ca--San%20Francisco)
+- [Eventbrite - Artificial Intelligence](https://www.eventbrite.com/d/ca--san-francisco/artificial-intelligence/)
 
 
 ## AI Conference Paper Deadlines
@@ -22,6 +26,9 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [paperswithcode / ai-deadlines ⏰ AI conference deadline countdowns](https://github.com/paperswithcode/ai-deadlines)
 
 
+## LLM Search Optimization for Companies / Answer Engine Optimization
+- [Profound Brand Optimization](https://www.tryprofound.com)
+  
 
 ## AI Articles
 - [ARC Prize - OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
@@ -41,8 +48,8 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI Leaderboards
-- [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
-
+- [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
 
 
 
