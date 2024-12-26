@@ -26,7 +26,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [paperswithcode / ai-deadlines ⏰ AI conference deadline countdowns](https://github.com/paperswithcode/ai-deadlines)
 
 
-## LLM Search Optimization for Companies / Answer Engine Optimization
+## LLM Search Optimization for Companies
 - [Profound Brand Optimization](https://www.tryprofound.com)
   
 
