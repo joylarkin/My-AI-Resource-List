@@ -44,12 +44,17 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Courses
 - [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone)
+- [NVIDIA Deep Learning Institute - Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
 - [NLPfor.me 🔠⚡🤖🧠😃 - A Pay-What-You-Can (PWYC) Microcourse in Natural Language Processing](https://github.com/nlpfromscratch/nlpfor.me)
 
 
 ## AI Leaderboards
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
+
+
+## AI Papers
+- [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
 
 
 
