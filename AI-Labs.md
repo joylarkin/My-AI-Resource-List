@@ -5,7 +5,7 @@ List of AI labs actively releasing foundational AI models.
 
 - OpenAI
 
-- Google DeepMind (formerly DeepMind + Google Brain)
+- Google DeepMind
 
 - Anthropic
 
@@ -13,12 +13,26 @@ List of AI labs actively releasing foundational AI models.
 
 - Microsoft Research
 
+- Mistral AI
+
 - IBM Research
 
 - Baidu Research
 
-- Alibaba DAMO Academy
+- Alibaba Qwen
 
 - EleutherAI
 
 - Stability AI
+
+- Cohere for AI
+
+- Nous Research
+
+- LiquidAI
+
+
+
+
+
+## Academic AI Labs
