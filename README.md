@@ -22,13 +22,17 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Eventbrite - Artificial Intelligence](https://www.eventbrite.com/d/ca--san-francisco/artificial-intelligence/)
 
 
+## LLM Search Optimization For Companies
+- [Profound Brand Optimization](https://www.tryprofound.com)
+
+
 ## AI Conference Paper Deadlines
 - [AI Conference Paper Deadlines - Countdowns to top CV/NLP/ML/Robotics/AI conferences](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
 - [paperswithcode / ai-deadlines ⏰ AI conference deadline countdowns](https://github.com/paperswithcode/ai-deadlines)
 
 
-## LLM Search Optimization For Companies
-- [Profound Brand Optimization](https://www.tryprofound.com)
+## AI Papers
+- [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
   
 
 ## AI Articles
@@ -50,13 +54,13 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [NLPfor.me 🔠⚡🤖🧠😃 - A Pay-What-You-Can (PWYC) Microcourse in Natural Language Processing](https://github.com/nlpfromscratch/nlpfor.me)
 
 
+## AI Models
+- [uncbiag / Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
+
+
 ## AI Leaderboards
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
-
-
-## AI Papers
-- [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
 
 
 ## AI Tools
