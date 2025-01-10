@@ -36,6 +36,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
   
 
 ## AI Articles
+- [Ethan Mollick - Prophecies of the Flood - What to make of the statements of the AI labs?](https://www.oneusefulthing.org/p/prophecies-of-the-flood)
 - [ARC Prize - OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 
 
