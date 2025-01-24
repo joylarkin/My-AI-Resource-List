@@ -10,6 +10,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Event Calendars
 - [Cerebral Valley Events - SF & Bay Area, New York City, Boston, Seattle, London, Remote](https://cerebralvalley.ai/events)
+- [lu.ma - AI](https://lu.ma/ai)
 - [AIhub - Events](https://aihub.org/events/)
 - [Confs.tech - Data/AI](https://confs.tech/?online=hybrid&topics=data)
 - [Conference Locate - Global Artificial Intelligence Events](https://www.clocate.com/conferences-on+artificial-intelligence-ai/c3UtMTQ4/)
