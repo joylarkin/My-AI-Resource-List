@@ -28,6 +28,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI Conference Paper Deadlines
+- [Hugging Face - AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
 - [AI Conference Paper Deadlines - Countdowns to top CV/NLP/ML/Robotics/AI conferences](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
 - [paperswithcode / ai-deadlines ⏰ AI conference deadline countdowns](https://github.com/paperswithcode/ai-deadlines)
 
