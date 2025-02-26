@@ -64,10 +64,13 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 ## AI Leaderboards
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
+- [General Reasoning Leaderboard](https://gr.inc/leaderboard/)
 
 
 ## AI Tools
-- [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/) 
+- [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
+
+  
 
 
 
