@@ -3,7 +3,7 @@
 
 ## Featured AI Resources
 - [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)
-A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.
+A proposal to standardize on using an /llms.txt file to provide information to help LLMs use a website at inference time.
 - [smol.ai - AI News](https://buttondown.com/ainews)
 Daily summary of top AI discords + AI reddits + AI X/Twitters.
 

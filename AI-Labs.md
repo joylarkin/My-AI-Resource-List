@@ -4,20 +4,32 @@
 ## AI Labs
 List of AI labs actively releasing foundational AI models.
 
-- OpenAI
+- 01.AI
+- AI21 Labs
+- Alibaba Qwen
 - Anthropic
+- Baidu Research
+- Character.AI
+- Cohere for AI
+- DeepSeek AI
+- EleutherAI
 - Google DeepMind
+- Hugging Face
+- IBM Research
+- LiquidAI
 - Meta AI (Facebook AI Research / FAIR)
 - Microsoft Research
 - Mistral AI
-- IBM Research
-- Baidu Research
-- Alibaba Qwen
-- EleutherAI
-- Stability AI
-- Cohere for AI
 - Nous Research
-- LiquidAI
+- OpenAI
+- Reflection AI
+- Replit AI
+- RunwayML
+- Safe Superintelligence (SSI)
+- Scale AI
+- Stability AI
+- Thinking Machines Lab
+- Together AI
 
 
 ## Applied AI Labs
