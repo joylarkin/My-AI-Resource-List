@@ -27,6 +27,10 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Profound Brand Optimization](https://www.tryprofound.com)
 
 
+## AI Market Maps
+- [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
+
+
 ## AI Conference Paper Deadlines
 - [Hugging Face - AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
 - [AI Conference Paper Deadlines - Countdowns to top CV/NLP/ML/Robotics/AI conferences](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
@@ -62,6 +66,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI Leaderboards
+- [Artificial Analysis](https://artificialanalysis.ai/)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
 - [General Reasoning Leaderboard](https://gr.inc/leaderboard/)
