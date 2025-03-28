@@ -68,7 +68,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Leaderboards
 - [Artificial Analysis](https://artificialanalysis.ai/)
-- [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- [Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
 - [General Reasoning Leaderboard](https://gr.inc/leaderboard/)
 
