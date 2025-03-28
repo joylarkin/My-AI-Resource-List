@@ -30,6 +30,14 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Market Maps
 - [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
+- [CBInsights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
+- [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
+- [Madrona - The AI Agent Infrastructure Stack - February 2025](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
+- [a16z - AI-Powered Web App Builders Market Map - February 2025](https://a16z.com/ai-web-app-builders/)
+- [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
+- [Magnusta Capital - FinTech AI Market Map - January 2025](https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84)
+- [AI Accelerator Institute - LLMOps Market Map - January 2025](https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/)
+- [Insight Partners - The state of the AI Agents ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
 
 
 ## AI Conference Paper Deadlines
