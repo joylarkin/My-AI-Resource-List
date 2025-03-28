@@ -25,6 +25,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## LLM Search Optimization For Companies
 - [Profound Brand Optimization](https://www.tryprofound.com)
+- [Athena AI](https://www.athenahq.ai/)
 
 
 ## AI Market Maps
@@ -73,6 +74,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI Tools
+- [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file) 
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 
   
