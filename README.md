@@ -80,15 +80,21 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Leaderboards
 - [Artificial Analysis](https://artificialanalysis.ai/)
+- [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
 - [Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
 - [General Reasoning Leaderboard](https://gr.inc/leaderboard/)
+- [Epoch AI - AI Benchmarking Hub](https://epoch.ai/data/ai-benchmarking-dashboard)
+- [Epoch AI - Large Scale AI Models](https://epoch.ai/data/large-scale-ai-models)
+- [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
+  
 
 
-## AI Tools
-- [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file) 
+## Assorted Helpful AI Tools
+- [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file)
+- [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
-
+- [Exa - Websets Search](https://websets.exa.ai/)
   
 
 
