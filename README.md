@@ -30,6 +30,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Market Maps - Q1 2025
 - [a16z - MCP Market Map - March 2025](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
+- [Auchenberg - AI Tools and Integrations Market Map - March 2025](https://github.com/auchenberg/ai-tools-integrations-market-map)
 - [CBInsights - AI Agent Market Map - March 2025](https://www.cbinsights.com/research/ai-agent-market-map/)
 - [Antler - Market Map - AI Agents: Fintech - March 2025](https://www.antler.co/blog/ai-market-map-fintech)
 - [a16z - The Top 100 GenAI Consumer Apps 2025 - March 2025](https://a16z.com/100-gen-ai-apps-4/)
