@@ -38,9 +38,10 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [AI Accelerator Instutite - Agentic Code Gen Market Leaders - February 2025](https://www.aiacceleratorinstitute.com/agentic-code-generation-the-future-of-software-development/)
 - [a16z - AI Voice Agent Update - January 2025](https://a16z.com/ai-voice-agents-2025-update/)
 - [Magnusta Capital - FinTech AI Market Map - January 2025](https://medium.com/%40Mangusta/mangusta-capital-2025-fintech-ai-market-map-c936a84e1a84)
+- [TechOperators - Cybersecurity + AI Startup Market Map - January 2025](https://www.linkedin.com/posts/techoperators-llc_cybersecurity-ai-startup-market-map-jan-activity-7287878267297017861-FIJr)
 - [AI Accelerator Institute - LLMOps Market Map - January 2025](https://www.aiacceleratorinstitute.com/llmops-optimizing-towards-enterprise-value-in-the-llm-agentic-era/)
 - [Sapphire Ventures - AI-Native Applications Market Map - January 2025](https://medium.com/@cgao/ai-native-applications-a-framework-for-evaluating-the-future-of-enterprise-software-0ddfa3989db9)
-- [Insight Partners - The state of the AI Agents Ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
+- [Insight Partners - The State of the AI Agents Ecosystem - December 2024](https://www.insightpartners.com/ideas/state-of-the-ai-agent-ecosystem-use-cases-and-learnings-for-technology-builders-and-buyers/)
 
 
 ## AI Conference Paper Deadlines
