@@ -2,9 +2,9 @@
 
 
 ## Featured AI Resources
-- [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)
+- [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)  
 A proposal to standardize on using an /llms.txt file to provide information to help LLMs use a website at inference time.
-- [smol.ai - AI News](https://buttondown.com/ainews)
+- [smol.ai - AI News](https://buttondown.com/ainews)  
 Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
@@ -82,6 +82,9 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 - [Exa - Websets Search](https://websets.exa.ai/)
+- [Gemini by Example](https://geminibyexample.com/)
+
+
   
 
 
