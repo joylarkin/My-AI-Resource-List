@@ -61,6 +61,9 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [NLPfor.me 🔠⚡🤖🧠😃 - A Pay-What-You-Can (PWYC) Microcourse in Natural Language Processing](https://github.com/nlpfromscratch/nlpfor.me)
 
 
+## AI Labs
+- [List of AI Labs](https://github.com/joylarkin/My-AI-Resource-List/blob/main/AI-Labs.md)
+
 ## AI Models
 - [uncbiag / Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
 
