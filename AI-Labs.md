@@ -11,6 +11,7 @@ List of AI labs actively releasing foundational AI models.
 - Baidu Research
 - Character.AI
 - Cohere for AI
+- Deep Cogito
 - DeepSeek AI
 - EleutherAI
 - Google DeepMind
@@ -33,7 +34,7 @@ List of AI labs actively releasing foundational AI models.
 
 
 ## Applied AI Labs
-- [Exa](https://exa.ai)
+- Exa
 
 
 ## Academic AI Labs
