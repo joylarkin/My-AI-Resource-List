@@ -79,13 +79,14 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
   
 
-
 ## Assorted Helpful AI Tools
 - [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file)
 - [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 - [Exa - Websets Search](https://websets.exa.ai/)
 - [Gemini by Example](https://geminibyexample.com/)
+- [Mastra - The MCP Registry Registry](https://mastra.ai/mcp-registry-registry)
+  
 
 
   
