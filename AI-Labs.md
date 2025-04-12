@@ -35,6 +35,7 @@ List of AI labs actively releasing foundational AI models.
 
 ## Applied AI Labs
 - Exa
+- Sakana AI
 
 
 ## Academic AI Labs
@@ -67,12 +68,13 @@ List of AI labs actively releasing foundational AI models.
 - Tsinghua University AI Lab - China
 - Peking University AI Research - China
 - NUS AI Lab - Singapore
-- IIT AI Research Groups - India (example: IIT Madras)
+- IIT AI Research Groups - India 
 - KAIST AI Institute - South Korea
 - HKUST AI Research Institute - Hong Kong
 - SJTU AI Research - China
 - Seoul National University AIIS - South Korea
 - University of Tokyo AI Lab - Japan
+- 
 
 ### Australia
 - AIML - University of Adelaide
