@@ -42,6 +42,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Articles
 - [Latent Space - Why MCP Won](https://www.latent.space/p/why-mcp-won)
+- [Cobus Greyling - 5 Levels Of AI Agents (Updated)](https://medium.com/@cobusgreyling/5-levels-of-ai-agents-updated-0ddf8931a1c6)
 - [Ethan Mollick - Prophecies of the Flood - What to make of the statements of the AI labs?](https://www.oneusefulthing.org/p/prophecies-of-the-flood)
 - [ARC Prize - OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 
@@ -52,6 +53,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Videos
 - [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Andrej Karpathy - Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 
 ## AI Courses
