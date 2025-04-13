@@ -1,4 +1,5 @@
 # My-AI-Resource-List
+MCP server → https://gitmcp.io/joylarkin/My-AI-Resource-List  
 
 
 ## Featured AI Resources
@@ -81,14 +82,21 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
   
 
-## Assorted Helpful AI Tools
+## Assorted Helpful Prompting Guides
 - [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file)
 - [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
+- [Lee Boonstra — Google - Prompt Engineering v7](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+
+
+## Assorted Helpful AI Tools
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 - [Exa - Websets Search](https://websets.exa.ai/)
 - [Gemini by Example](https://geminibyexample.com/)
 - [Mastra - The MCP Registry Registry](https://mastra.ai/mcp-registry-registry)
-  
+- [GitMCP - Instantly create a Remote MCP server for any GitHub repository](https://gitmcp.io/)
+
+
+
 
 
   
