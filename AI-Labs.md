@@ -24,6 +24,7 @@ List of AI labs actively releasing foundational AI models.
 - Mistral AI
 - Nous Research
 - OpenAI
+- Pleias
 - Reflection AI
 - Replit AI
 - RunwayML
