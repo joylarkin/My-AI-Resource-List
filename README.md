@@ -94,6 +94,9 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Gemini by Example](https://geminibyexample.com/)
 - [Mastra - The MCP Registry Registry](https://mastra.ai/mcp-registry-registry)
 - [GitMCP - Instantly create a Remote MCP server for any GitHub repository](https://gitmcp.io/)
+- [DeepWiki - An AI-Powered Guide to GitHub Repositories](https://deepwiki.com)
+- [Exa - Exa MCP Server - MCP server using the Exa AI Search API for web searches.](https://github.com/exa-labs/exa-mcp-server)
+- [Convergence.ai Proxy - Your AI assistant for daily web tasks](https://convergence.ai/)
 
 
 
