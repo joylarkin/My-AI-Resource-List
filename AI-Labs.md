@@ -38,6 +38,7 @@ List of AI labs actively releasing foundational AI models.
 ## Applied AI Labs
 - Exa
 - Humiris AI
+- Kimi.ai
 - Sakana AI
 
 
