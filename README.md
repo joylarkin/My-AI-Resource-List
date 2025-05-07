@@ -33,6 +33,10 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [joylarkin / Awesome-AI-Market-Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps)
 
 
+## AI Industry
+- [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
+
+
 ## AI Conference Paper Deadlines
 - [Hugging Face - AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
 
