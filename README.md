@@ -1,4 +1,4 @@
-# My-AI-Resource-List
+# My-AI-Resource-List  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/My-AI-Resource-List.svg)  
 MCP server → https://gitmcp.io/joylarkin/My-AI-Resource-List  
 
 
@@ -80,6 +80,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Epoch AI - AI Benchmarking Hub](https://epoch.ai/data/ai-benchmarking-dashboard)
 - [Epoch AI - Large Scale AI Models](https://epoch.ai/data/large-scale-ai-models)
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
+- [Vectara - Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
   
 
 ## Assorted Helpful Prompting Guides
