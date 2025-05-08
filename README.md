@@ -1,5 +1,6 @@
 # My-AI-Resource-List  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/My-AI-Resource-List.svg)  
-MCP server → https://gitmcp.io/joylarkin/My-AI-Resource-List  
+MCP Server → https://gitmcp.io/joylarkin/My-AI-Resource-List  
+DeepWiki Overview → https://www.deepwiki.com/joylarkin/My-AI-Resource-List  
 
 
 ## Featured AI Resources
