@@ -74,7 +74,6 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 ## AI Models
 - [uncbiag / Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
 
-
 ## AI Leaderboards
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
@@ -102,7 +101,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [DeepWiki - An AI-Powered Guide to GitHub Repositories](https://deepwiki.com)
 - [Exa - Exa MCP Server - MCP server using the Exa AI Search API for web searches.](https://github.com/exa-labs/exa-mcp-server)
 - [Convergence.ai Proxy - Your AI assistant for daily web tasks](https://convergence.ai/)
-
+- [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
 
 
 
