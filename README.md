@@ -102,6 +102,10 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Exa - Exa MCP Server - MCP server using the Exa AI Search API for web searches.](https://github.com/exa-labs/exa-mcp-server)
 - [Convergence.ai Proxy - Your AI assistant for daily web tasks](https://convergence.ai/)
 - [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
+- [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
+
+
+
 
 
 
