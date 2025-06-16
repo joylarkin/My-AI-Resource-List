@@ -42,6 +42,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI Papers
+- [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
   
 
