@@ -105,6 +105,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Convergence.ai Proxy - Your AI assistant for daily web tasks](https://convergence.ai/)
 - [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
 - [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
+- [firecrawl.dev - Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
 
 
 
