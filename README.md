@@ -47,6 +47,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
   
 
 ## AI Articles
+- [Ethan Mollick - Using AI Right Now: A Quick Guide - June 2025](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
 - [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
 - [Latent Space - Why MCP Won](https://www.latent.space/p/why-mcp-won)
 - [Cobus Greyling - 5 Levels Of AI Agents (Updated)](https://medium.com/@cobusgreyling/5-levels-of-ai-agents-updated-0ddf8931a1c6)
