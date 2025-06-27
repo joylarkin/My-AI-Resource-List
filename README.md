@@ -76,6 +76,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 ## AI Models
 - [uncbiag / Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
+- [together.ai - Which LLM is best for my use case?](https://whichllm.together.ai/)
 
 ## AI Leaderboards
 - [Artificial Analysis](https://artificialanalysis.ai/)
@@ -107,6 +108,8 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
 - [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
 - [firecrawl.dev - Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
+- [nibzard / Awesome Agentic Patterns](https://agentic-patterns.com/)
+
 
 
 
