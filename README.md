@@ -80,6 +80,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [together.ai - Which LLM is best for my use case?](https://whichllm.together.ai/)
 
 ## AI Leaderboards
+- [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
 - [Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard)
@@ -89,8 +90,8 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [Epoch AI - Large Scale AI Models](https://epoch.ai/data/large-scale-ai-models)
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
 - [Vectara - Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
+- [Galileo Agent Leaderboard v2 - Comprehensive performance metrics for LLM agents across business domains](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) 
   
-
 ## Assorted Helpful Prompting Guides
 - [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file)
 - [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
