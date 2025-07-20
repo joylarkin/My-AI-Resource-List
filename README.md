@@ -25,7 +25,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## LLM Search Optimization For Companies
-- [harlan-zw / mdream - ☁️ Convert any site to clean markdown & llms.txt]
+- [harlan-zw / mdream - ☁️ Convert any site to clean markdown & llms.txt](https://github.com/harlan-zw/mdream)
 - [Profound Brand Optimization](https://www.tryprofound.com)
 - [Athena AI](https://www.athenahq.ai/)
 
