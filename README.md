@@ -38,6 +38,17 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 - [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
 
 
+## AI and Governments
+- [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
+- [Canada - AI Strategy for the Federal Public Service 2025-2027: Priority areas - June 2025](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-priority-areas.html)
+- [European Commission - AI Act - June 2025](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+- [France - IA : une nouvelle impulsion pour la stratégie nationale - February 2025](https://www.info.gouv.fr/actualite/ia-une-nouvelle-impulsion-pour-la-strategie-nationale)
+- [United Kingdom - Artificial Intelligence Playbook for the UK Government - February 2025](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html)
+- [ASEAN - Expanded ASEAN Guide on AI Governance and Ethics – Generative AI - January 2025](https://asean.org/book/expanded-asean-guide-on-ai-governance-and-ethics-generative-ai/)
+- [Malaysia - AI City Initiative: Cities Beyond Smart](https://mdec.my/ai-city)
+- [Australia - Policy for the responsible use of AI in government - September 2024](https://www.digital.gov.au/policy/ai/policy)
+
+
 ## AI Conference Paper Deadlines
 - [Hugging Face - AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
 
