@@ -39,6 +39,7 @@ Daily summary of top AI discords + AI reddits + AI X/Twitters.
 
 
 ## AI and Governments
+- [ EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
 - [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
 - [Canada - AI Strategy for the Federal Public Service 2025-2027: Priority areas - June 2025](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-priority-areas.html)
 - [European Commission - AI Act - June 2025](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
