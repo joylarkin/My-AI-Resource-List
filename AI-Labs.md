@@ -33,6 +33,8 @@ List of AI labs actively releasing foundational AI models.
 - Stability AI
 - Thinking Machines Lab
 - Together AI
+- xAI
+- Z.ai
 
 
 ## Applied AI Labs
