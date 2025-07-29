@@ -42,6 +42,7 @@ List of AI labs actively releasing foundational AI models.
 - Humiris AI
 - Kimi.ai
 - Sakana AI
+- Skild AI - Robotic Intelligence
 
 
 ## Academic AI Labs
