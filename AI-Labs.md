@@ -29,6 +29,7 @@ List of AI labs actively releasing foundational AI models.
 - Replit AI
 - RunwayML
 - Safe Superintelligence (SSI)
+- Sapient Intelligence
 - Scale AI
 - Stability AI
 - Thinking Machines Lab
