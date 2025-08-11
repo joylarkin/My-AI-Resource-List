@@ -111,9 +111,10 @@ Timely AI industry insights.
 
 
 ## Assorted Helpful Prompting Guides
+- [OpenAI - GPT-5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+- [Lee Boonstra — Google - Prompt Engineering v7](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 - [Browser Use - Awesome Prompts](https://github.com/browser-use/awesome-prompts?tab=readme-ov-file)
 - [Instructor - Advance Prompting Techniques](https://python.useinstructor.com/prompting/)
-- [Lee Boonstra — Google - Prompt Engineering v7](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 
 ## Assorted Helpful AI Tools
