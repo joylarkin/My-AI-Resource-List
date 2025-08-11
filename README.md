@@ -6,7 +6,7 @@ MCP Server → https://gitmcp.io/joylarkin/My-AI-Resource-List
 - [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)  
 A proposal to standardize on using an /llms.txt file to provide information to help LLMs use a website at inference time.
 - [Artificial Analysis](https://artificialanalysis.ai/)   
-Timely AI industry insights.
+Timely AI industry insights and benchmarks.
 
 
 ## AI Event Calendars
