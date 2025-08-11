@@ -106,7 +106,8 @@ Timely AI industry insights.
 - [Epoch AI - Large Scale AI Models](https://epoch.ai/data/large-scale-ai-models)
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
 - [Vectara - Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
-- [Galileo Agent Leaderboard v2 - Comprehensive performance metrics for LLM agents across business domains](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) 
+- [Galileo Agent Leaderboard v2 - Comprehensive performance metrics for LLM agents across business domains](https://huggingface.co/spaces/galileo-ai/agent-leaderboard)
+- [HAL: Holistic Agent Leaderboard - The standardized, cost-aware, and third-party leaderboard for evaluating agents.](https://hal.cs.princeton.edu/)
 
 
 ## Assorted Helpful Prompting Guides
