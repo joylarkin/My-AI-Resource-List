@@ -5,6 +5,7 @@
 List of AI labs actively releasing foundational AI models.
 
 - 01.AI
+- Ai2 - Allen Institute for Artificial Intelligence
 - AI21 Labs
 - Alibaba Qwen
 - Anthropic
