@@ -57,11 +57,15 @@ Timely AI industry insights and benchmarks.
 ## AI Papers
 - [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
-  
 
-## AI Articles
+  
+## AI Books
 - [Google DeepMind - How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 - [Google DeepMind - How to Scale Your Model - A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
+- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
+
+## AI Articles
 - [Mistral AI - Our contribution to a global environmental standard for AI - July 2025](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai)
 - [Ethan Mollick - Using AI Right Now: A Quick Guide - June 2025](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
 - [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
