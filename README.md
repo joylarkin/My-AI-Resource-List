@@ -57,12 +57,14 @@ Timely AI industry insights and benchmarks.
 ## AI Papers
 - [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
+- [dzyim / ilya-sutskever-recommended-reading](https://github.com/dzyim/ilya-sutskever-recommended-reading)
 
   
 ## AI Books
 - [Google DeepMind - How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 - [Google DeepMind - How to Scale Your Model - A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Chip Huyen - AI Engineering](https://github.com/chiphuyen/aie-book)
 
 
 ## AI Articles
