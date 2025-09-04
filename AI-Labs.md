@@ -16,6 +16,7 @@ List of AI labs actively releasing foundational AI models.
 - Deep Cogito
 - DeepSeek AI
 - EleutherAI
+- Essential AI
 - Google DeepMind
 - Hugging Face
 - IBM Research
