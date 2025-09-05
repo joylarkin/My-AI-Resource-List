@@ -68,6 +68,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## AI Articles
+- [OpenAI - Why language models hallucinate - September 2025](https://openai.com/index/why-language-models-hallucinate/)
 - [Mistral AI - Our contribution to a global environmental standard for AI - July 2025](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai)
 - [Ethan Mollick - Using AI Right Now: A Quick Guide - June 2025](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
 - [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
