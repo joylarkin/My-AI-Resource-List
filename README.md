@@ -144,6 +144,10 @@ Timely AI industry insights and benchmarks.
 - [nibzard / Awesome Agentic Patterns](https://agentic-patterns.com/)
 
 
+## Incredibly Cool AI Projects
+- [ZüriCityGPT - Chatbot designed to answer questions about Zürich, built with the Apertus 70b Swiss OSS LLM](https://oss.zuericitygpt.ch/)
+
+
 
 
 
