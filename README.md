@@ -142,6 +142,7 @@ Timely AI industry insights and benchmarks.
 - [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
 - [firecrawl.dev - Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
 - [nibzard / Awesome Agentic Patterns](https://agentic-patterns.com/)
+- [modelcontextprotocol / Ecosystem Vision](https://github.com/modelcontextprotocol/registry/blob/main/docs/explanations/ecosystem-vision.md)
 
 
 ## Incredibly Cool AI Projects
