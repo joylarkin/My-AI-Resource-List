@@ -118,6 +118,7 @@ Timely AI industry insights and benchmarks.
 - [Galileo Agent Leaderboard v2 - Comprehensive performance metrics for LLM agents across business domains](https://huggingface.co/spaces/galileo-ai/agent-leaderboard)
 - [HAL: Holistic Agent Leaderboard - The standardized, cost-aware, and third-party leaderboard for evaluating agents.](https://hal.cs.princeton.edu/)
 - [ML.ENERGY Leaderboard - How much energy do GenAI models consume?](https://ml.energy/leaderboard/)
+- [Rosebud - CARE (Crisis Assessment and Response Evaluator)](https://www.rosebud.app/care)
 
 
 ## Assorted Helpful Prompting Guides
