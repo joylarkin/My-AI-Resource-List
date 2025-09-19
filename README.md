@@ -119,6 +119,7 @@ Timely AI industry insights and benchmarks.
 - [HAL: Holistic Agent Leaderboard - The standardized, cost-aware, and third-party leaderboard for evaluating agents.](https://hal.cs.princeton.edu/)
 - [ML.ENERGY Leaderboard - How much energy do GenAI models consume?](https://ml.energy/leaderboard/)
 - [Rosebud - CARE (Crisis Assessment and Response Evaluator)](https://www.rosebud.app/care)
+- [VCBench - The first standardized benchmark for founder-success prediction in venture capital](https://www.vcbench.com/)
 
 
 ## Assorted Helpful Prompting Guides
