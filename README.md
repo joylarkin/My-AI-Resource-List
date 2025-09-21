@@ -121,7 +121,7 @@ Timely AI industry insights and benchmarks.
 - [ML.ENERGY Leaderboard - How much energy do GenAI models consume?](https://ml.energy/leaderboard/)
 - [Rosebud - CARE (Crisis Assessment and Response Evaluator)](https://www.rosebud.app/care)
 - [VCBench - The first standardized benchmark for founder-success prediction in venture capital](https://www.vcbench.com/)
-- [Scale AI - SWE-Bench Pro (Commercial Dataset) New Benchmark for Software Engineering AI Agents](https://scale.com/leaderboard/swe_bench_pro_commercial)
+- [SWE-Bench Pro (Commercial Dataset) - New benchmark for software engineering AI agents](https://scale.com/leaderboard/swe_bench_pro_commercial)
 
 
 ## Assorted Helpful Prompting Guides
