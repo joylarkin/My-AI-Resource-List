@@ -68,7 +68,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## AI Articles
-- [Fang, Han and Sankararaman, Karthik Abinav - Post-training 101 - September 2025](https://tokens-for-thoughts.notion.site/post-training-101)
+- [Fang, Han and Sankararaman, Karthik Abinav - Post-training 101: A hitchhiker's guide into LLM post-training - September 2025](https://tokens-for-thoughts.notion.site/post-training-101)
 - [OpenAI - Why language models hallucinate - September 2025](https://openai.com/index/why-language-models-hallucinate/)
 - [Mistral AI - Our contribution to a global environmental standard for AI - July 2025](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai)
 - [Ethan Mollick - Using AI Right Now: A Quick Guide - June 2025](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
