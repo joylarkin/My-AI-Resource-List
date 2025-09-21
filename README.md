@@ -39,7 +39,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## AI and Governments
-- [ EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
+- [EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
 - [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
 - [Canada - AI Strategy for the Federal Public Service 2025-2027: Priority areas - June 2025](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-priority-areas.html)
 - [European Commission - AI Act - June 2025](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
@@ -68,6 +68,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## AI Articles
+- [Fang, Han and Sankararaman, Karthik Abinav - Post-training 101 - September 2025](https://tokens-for-thoughts.notion.site/post-training-101)
 - [OpenAI - Why language models hallucinate - September 2025](https://openai.com/index/why-language-models-hallucinate/)
 - [Mistral AI - Our contribution to a global environmental standard for AI - July 2025](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai)
 - [Ethan Mollick - Using AI Right Now: A Quick Guide - June 2025](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
