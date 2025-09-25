@@ -105,7 +105,16 @@ Timely AI industry insights and benchmarks.
 - [together.ai - Which LLM is best for my use case?](https://whichllm.together.ai/)
 
 
-# AI Leaderboards
+## AI For Policymakers
+- [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
+
+
+## AI Evals
+- [OpenAI - Measuring the performance of our models on real-world tasks - September 2025](https://openai.com/index/gdpval/)
+- [OpenAI - OpenAI Evals](https://evals.openai.com/)
+
+
+## AI Leaderboards
 - [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
