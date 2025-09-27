@@ -105,6 +105,10 @@ Timely AI industry insights and benchmarks.
 - [together.ai - Which LLM is best for my use case?](https://whichllm.together.ai/)
 
 
+## AI Agents
+- [The AI Agent Index - Documenting the technical and safety features of deployed agentic AI systems](https://aiagentindex.mit.edu/)
+
+
 ## AI For Policymakers
 - [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
 
