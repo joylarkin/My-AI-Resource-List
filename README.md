@@ -81,6 +81,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## Open Source AI
+- [Jan - Open source ChatGPT alternative that runs offline](https://www.jan.ai/)
 - [intellectronica / oss-ai-swe - Open Source AI Software Craft](https://oss-ai-swe.org/)
 - [Hugging Face Blog - Open Source Developers Guide to the EU AI Act](https://huggingface.co/blog/eu-ai-act-for-oss-developers)
 
