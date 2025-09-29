@@ -89,6 +89,7 @@ Timely AI industry insights and benchmarks.
 ## AI Videos
 - [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Andrej Karpathy - Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [3blue1brown - How might LLMs store facts | Deep Learning Chapter 7](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 
 
 ## AI Courses
