@@ -68,6 +68,7 @@ Timely AI industry insights and benchmarks.
 
 
 ## AI Articles
+- [Florian Brand - Local models are (not) cope - October 2025](https://florianbrand.de/posts/local-llms)
 - [Julian Schrittwieser - Failing to Understand the Exponential, Again - September 2025](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
 - [Fang, Han and Sankararaman, Karthik Abinav - Post-training 101: A hitchhiker's guide into LLM post-training - September 2025](https://tokens-for-thoughts.notion.site/post-training-101)
 - [OpenAI - Why language models hallucinate - September 2025](https://openai.com/index/why-language-models-hallucinate/)
