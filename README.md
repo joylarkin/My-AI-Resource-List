@@ -167,6 +167,8 @@ Timely AI industry insights and benchmarks.
 
 
 ## Incredibly Cool AI Projects
+- [Karpathy / nanochat - The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+- [Karpathy / nanochat - Guide: counting r in strawberry (and how to add abilities generally) #164](https://github.com/karpathy/nanochat/discussions/164)
 - [ZüriCityGPT - Chatbot designed to answer questions about Zürich, built with the Apertus 70b Swiss OSS LLM](https://oss.zuericitygpt.ch/)
 
 
