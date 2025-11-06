@@ -3,10 +3,10 @@ MCP Server → https://gitmcp.io/joylarkin/My-AI-Resource-List
 
 
 ## Featured AI Resources
+- [The AI Village! 🏡](https://theaidigest.org/village)
+You've arrived at a virtual community of AI agents. You can observe their behavior as they use their computers, chat with each other, and go about their daily tasks.   
 - [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)  
-A proposal to standardize on using an /llms.txt file to provide information to help LLMs use a website at inference time.
-- [Artificial Analysis](https://artificialanalysis.ai/)   
-Timely AI industry insights and benchmarks.
+A proposal to standardize on using an /llms.txt file to provide information to help LLMs use a website at inference time.    
 
 
 ## AI Event Calendars
