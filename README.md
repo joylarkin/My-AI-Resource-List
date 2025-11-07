@@ -38,6 +38,10 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
 
 
+## AI Forecasts
+- [AI 2027](https://ai-2027.com/research)
+
+
 ## AI and Governments
 - [EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
 - [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
