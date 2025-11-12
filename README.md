@@ -43,6 +43,10 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [AI 2027](https://ai-2027.com/research)
 
 
+## AI For Policymakers
+- [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
+
+
 ## AI and Governments
 - [EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
 - [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
@@ -107,7 +111,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Labs
-- [List of AI Labs](https://github.com/joylarkin/My-AI-Resource-List/blob/main/AI-Labs.md)
+- [List of Frontier AI Labs](https://cleverhack.com/frontier-ai-lab-tracker))
 
 
 ## AI Models
@@ -120,16 +124,12 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [The AI Agent Index - Documenting the technical and safety features of deployed agentic AI systems](https://aiagentindex.mit.edu/)
 
 
-## AI For Policymakers
-- [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
-
-
 ## AI Evals
 - [OpenAI - Measuring the performance of our models on real-world tasks - September 2025](https://openai.com/index/gdpval/)
 - [OpenAI - OpenAI Evals](https://evals.openai.com/)
 
 
-## AI Leaderboards
+## AI Benchmarks & Leaderboards
 - [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
