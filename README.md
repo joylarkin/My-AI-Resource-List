@@ -116,6 +116,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Agents
+- [Google - Introduction to Agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
 - [The AI Agent Index - Documenting the technical and safety features of deployed agentic AI systems](https://aiagentindex.mit.edu/)
 
 
