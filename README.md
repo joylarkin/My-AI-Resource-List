@@ -35,6 +35,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Industry
+- [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025)   
 - [McKinsey - The state of AI in 2025: Agents, innovation, and transformation - November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
 - [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
 
