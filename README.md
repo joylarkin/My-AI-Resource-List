@@ -126,6 +126,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Evals
+- [METR - METR (pronounced ‘meter’) researches, develops and runs evaluations of frontier AI systems’ ability to complete complex tasks without human input](https://metr.org/research/)
 - [OpenAI - Measuring the performance of our models on real-world tasks - September 2025](https://openai.com/index/gdpval/)
 - [OpenAI - OpenAI Evals](https://evals.openai.com/)
 
