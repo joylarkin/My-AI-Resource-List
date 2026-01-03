@@ -78,6 +78,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Articles
+- [Florian Brand & Jean-Stanislaus Denain - Why benchmarking is hard - December 2025](https://epoch.ai/gradient-updates/why-benchmarking-is-hard)
 - [Sebastian Raschka - Beyond Standard LLMs: Linear Attention Hybrids, Text Diffusion, Code World Models, and Small Recursive Transformers - November 2025](https://sebastianraschka.com/blog/2025/beyond-standard-llms.html#linear-attention-hybrids-text-diffusion-code-world-models-and-sm)
 - [Florian Brand - Local models are (not) cope - October 2025](https://florianbrand.de/posts/local-llms)
 - [Julian Schrittwieser - Failing to Understand the Exponential, Again - September 2025](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
