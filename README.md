@@ -49,6 +49,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI and Governments
+- [METR - Frontier AI safety regulations: A reference for lab staff - February 2026](https://metr.org/frontier-ai-regulations.pdf)
 - [EU - Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models - July 2025](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models)
 - [US - AI Action Plan - July 2025](https://www.ai.gov/action-plan)
 - [Canada - AI Strategy for the Federal Public Service 2025-2027: Priority areas - June 2025](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-priority-areas.html)
