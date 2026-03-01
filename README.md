@@ -30,7 +30,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Athena AI](https://www.athenahq.ai/)
 
 
-## AI Market Maps - 2025 & 2024
+## AI Market Maps
 - [joylarkin / Awesome-AI-Market-Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps)
 
 
@@ -38,6 +38,10 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025)   
 - [McKinsey - The state of AI in 2025: Agents, innovation, and transformation - November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
 - [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
+
+
+## AI GTM
+- [Jessica Tillipman - What Rights Do AI Companies Have in Government Contracts? - March 2026](https://jessicatillipman.com/what-rights-do-ai-companies-have-in-government-contracts/)
 
 
 ## AI Forecasts
@@ -114,7 +118,8 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Labs
-- [List of Frontier AI Labs](https://cleverhack.com/frontier-ai-lab-tracker))
+- [List of Frontier AI Labs](https://cleverhack.com/frontier-ai-lab-tracker)
+- [Neolab & Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker)
 
 
 ## AI Models
