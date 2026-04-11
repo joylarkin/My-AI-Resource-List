@@ -179,6 +179,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
 - [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
 - [firecrawl.dev - Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
+- [Toprank - Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills that connects Google Search Console, PageSpeed Insights, and the Google Ads API, and can ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes](https://github.com/nowork-studio/toprank)
 - [nibzard / Awesome Agentic Patterns](https://agentic-patterns.com/)
 - [modelcontextprotocol / Ecosystem Vision](https://github.com/modelcontextprotocol/registry/blob/main/docs/explanations/ecosystem-vision.md)
 
@@ -197,7 +198,6 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
   
-
 
 
 
