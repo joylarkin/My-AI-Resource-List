@@ -46,6 +46,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 ## AI Forecasts
 - [AI 2027](https://ai-2027.com/research)
+- [Europe 2031](https://europe2031.ai/)
 
 
 ## AI For Policymakers
