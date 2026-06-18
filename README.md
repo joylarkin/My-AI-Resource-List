@@ -50,6 +50,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI For Policymakers
+- [Google DeepMind - The Three Layers of Agent Security A Framework for Policymakers - June 2026](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/three-layers-of-agent-security.pdf)
 - [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
 
 
