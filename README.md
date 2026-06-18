@@ -35,6 +35,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Industry
+- [Stanford Digital Economy Lab - AI Economic Indicators - June 2026](https://digitaleconomy.stanford.edu/project/indicators/)
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025)   
 - [McKinsey - The state of AI in 2025: Agents, innovation, and transformation - November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
 - [KPMG - KPMG AI Quarterly Pulse Survey Q1 2025](https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html)
@@ -50,6 +51,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI For Policymakers
+- [Anthropic - Policy on the AI Exponential - June 2026](https://www.anthropic.com/policy-on-the-ai-exponential)
 - [Google DeepMind - The Three Layers of Agent Security A Framework for Policymakers - June 2026](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/three-layers-of-agent-security.pdf)
 - [Stanford HAI - Validating Claims About AI: A Policymaker’s Guide - September 2025](https://hai.stanford.edu/policy/validating-claims-about-ai-a-policymakers-guide)
 
