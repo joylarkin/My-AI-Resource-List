@@ -74,6 +74,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Papers
+- [Wes Gurnee, Nicholas Sofroniew & et. al. - Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html)
 - [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
 - [dzyim / ilya-sutskever-recommended-reading](https://github.com/dzyim/ilya-sutskever-recommended-reading)
