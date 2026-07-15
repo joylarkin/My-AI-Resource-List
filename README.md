@@ -144,6 +144,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Benchmarks & Leaderboards
+- [BenchmarkList - one place to track AI benchmarks, models, and capabilities](https://benchmarklist.com/)
 - [LMCouncil - AI Model Benchmarks / 20 benchmarks - the world's most-followed benchmarks](https://lmcouncil.ai/benchmarks)
 - [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
 - [Artificial Analysis](https://artificialanalysis.ai/)
