@@ -174,6 +174,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## Assorted Helpful AI Tools
+- [Agent QA - Source-available agent for authoring and running natural-language web, Android, and iOS regression tests with deterministic checks and reviewable run evidence](https://github.com/vostride/agent-qa)
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 - [Exa - Websets Search](https://websets.exa.ai/)
 - [Gemini by Example](https://geminibyexample.com/)
@@ -203,7 +204,6 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
   
-
 
 
 
