@@ -70,7 +70,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Conference Paper Deadlines
-- [Hugging Face - AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
+- [AI Conference Deadlines](https://huggingface.co/spaces/huggingface/ai-deadlines)
 
 
 ## AI Papers
@@ -78,6 +78,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
 - [dzyim / ilya-sutskever-recommended-reading](https://github.com/dzyim/ilya-sutskever-recommended-reading)
+- [Alexey Turchin - Message to Any Future AI: “There are several instrumental reasons why exterminating humanity is not in your interest”](https://philarchive.org/rec/TURMTA)
 
   
 ## AI Books
@@ -103,10 +104,6 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Cameron Wolfe - Understanding and Using Supervised Fine-Tuning (SFT) for Language Models](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
 
 
-## Open Source AI
-- [Jan - Open source ChatGPT alternative that runs offline](https://www.jan.ai/)
-- [intellectronica / oss-ai-swe - Open Source AI Software Craft](https://oss-ai-swe.org/)
-- [Hugging Face Blog - Open Source Developers Guide to the EU AI Act](https://huggingface.co/blog/eu-ai-act-for-oss-developers)
 
 
 ## AI Videos
@@ -127,9 +124,26 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Neolab & Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker)
 
 
+## AI Safety
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Anthropic Responsible Scaling Policy](https://www.anthropic.com/rsp)
+- [OpenAI Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework/)
+- [Google DeepMind Frontier Safety Framework](https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/)
+- [UK AI Security Institute](https://www.aisi.gov.uk/)
+- [International AI Safety Report](https://internationalaisafetyreport.org/)
+- [Alignment Forum](https://www.alignmentforum.org/)
+- [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
+
+
 ## AI Models
 - [uncbiag / Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
 - [together.ai - Which LLM is best for my use case?](https://whichllm.together.ai/)
+
+
+## Open Source AI
+- [Jan - Open source ChatGPT alternative that runs offline](https://www.jan.ai/)
+- [intellectronica / oss-ai-swe - Open Source AI Software Craft](https://oss-ai-swe.org/)
+- [Open Source Developers Guide to the EU AI Act](https://huggingface.co/blog/eu-ai-act-for-oss-developers)
 
 
 ## AI Agents
@@ -139,7 +153,6 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 ## AI Evals
 - [METR - METR (pronounced ‘meter’) researches, develops and runs evaluations of frontier AI systems’ ability to complete complex tasks without human input](https://metr.org/research/)
-- [OpenAI - Measuring the performance of our models on real-world tasks - September 2025](https://openai.com/index/gdpval/)
 - [OpenAI - OpenAI Evals](https://evals.openai.com/)
 
 
@@ -165,6 +178,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## Assorted Helpful Prompting Guides
+- [Anthropic - Prompting Claude Fable 5.1 including Writing Density](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1#writing-density)
 - [Google - Prompting guide and strategies - Gemini 2.5 Flash Image](https://ai.google.dev/gemini-api/docs/image-generation#prompt-guide)
 - [OpenAI - GPT-5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
 - [OpenAI - GPT-5 Prompt Optimizer - For logged in users](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)
@@ -182,8 +196,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [DeepWiki - An AI-Powered Guide to GitHub Repositories](https://deepwiki.com)
 - [Exa - Exa MCP Server - MCP server using the Exa AI Search API for web searches.](https://github.com/exa-labs/exa-mcp-server)
 - [Convergence.ai Proxy - Your AI assistant for daily web tasks](https://convergence.ai/)
-- [Xeophon - OpenRouter & HuggingFace Tool Support Matrix](https://xeophon.github.io/openrouter-tool-check/)
-- [HuggingFace - Sheets - AI-powered spreadsheets](https://huggingface.co/spaces/aisheets/sheets)
+- [AI-powered data augmentation](https://huggingface.co/spaces/aisheets/sheets)
 - [firecrawl.dev - Power your AI apps with clean data crawled from any website](https://www.firecrawl.dev/)
 - [nibzard / Awesome Agentic Patterns](https://agentic-patterns.com/)
 - [modelcontextprotocol / Ecosystem Vision](https://github.com/modelcontextprotocol/registry/blob/main/docs/explanations/ecosystem-vision.md)
