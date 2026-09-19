@@ -104,8 +104,6 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Cameron Wolfe - Understanding and Using Supervised Fine-Tuning (SFT) for Language Models](https://cameronrwolfe.substack.com/p/understanding-and-using-supervised)
 
 
-
-
 ## AI Videos
 - [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Andrej Karpathy - Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
@@ -168,6 +166,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [Epoch AI - AI Benchmarking Hub](https://epoch.ai/data/ai-benchmarking-dashboard)
 - [Epoch AI - Large Scale AI Models](https://epoch.ai/data/large-scale-ai-models)
 - [Epoch AI - Machine Learning Hardware](https://epoch.ai/data/machine-learning-hardware)
+- [Epoch AI - Reviewed Benchmarks](https://epoch.ai/data/benchmark-reviews-documentation/included-benchmarks#reviewed-benchmarks)
 - [Vectara - Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
 - [Galileo Agent Leaderboard v2 - Comprehensive performance metrics for LLM agents across business domains](https://huggingface.co/spaces/galileo-ai/agent-leaderboard)
 - [HAL: Holistic Agent Leaderboard - The standardized, cost-aware, and third-party leaderboard for evaluating agents.](https://hal.cs.princeton.edu/)
