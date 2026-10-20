@@ -1,4 +1,4 @@
-# My-AI-Resource-List  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin//My-AI-Resource-List)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/My-AI-Resource-List.svg)  
+# My-AI-Resource-List  [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/joylarkin//My-AI-Resource-List)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/My-AI-Resource-List.svg)  
 MCP Server → https://gitmcp.io/joylarkin/My-AI-Resource-List  
 
 
@@ -35,6 +35,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Industry
+- [National Bureau of Economic Research - Firm Data on AI, NBER Working Paper 34836 (October 2026)](https://www.nber.org/papers/w34836)
 - [Stanford Digital Economy Lab - AI Economic Indicators - June 2026](https://digitaleconomy.stanford.edu/project/indicators/)
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025)   
 - [McKinsey - The state of AI in 2025: Agents, innovation, and transformation - November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
