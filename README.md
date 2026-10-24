@@ -35,7 +35,8 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Industry
-- [National Bureau of Economic Research - Firm Data on AI, NBER Working Paper 34836 (October 2026)](https://www.nber.org/papers/w34836)
+- [Apollo Global Management - No Signs of AI Payoff Outside the Tech Sector - October 2026](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+- [National Bureau of Economic Research - Firm Data on AI, NBER Working Paper 34836 - October 2026](https://www.nber.org/papers/w34836)
 - [Stanford Digital Economy Lab - AI Economic Indicators - June 2026](https://digitaleconomy.stanford.edu/project/indicators/)
 - [Theory Ventures - AI in Practice Survey 2025 - November 2025](https://theoryvc.com/ai-in-practice-survey-2025)   
 - [McKinsey - The state of AI in 2025: Agents, innovation, and transformation - November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
