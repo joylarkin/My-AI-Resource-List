@@ -15,6 +15,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 - [AIhub - Events](https://aihub.org/events/)
 - [Confs.tech - Data/AI](https://confs.tech/?online=hybrid&topics=data)
 - [Conference Locate - Global Artificial Intelligence Events](https://www.clocate.com/conferences-on+artificial-intelligence-ai/c3UtMTQ4/)
+- [AgentConfs - AI & Agent Engineering Conferences, Worldwide](https://agentconfs.com)
 
 
 ## AI Event Calendars By Locale
