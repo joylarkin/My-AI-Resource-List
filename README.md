@@ -126,6 +126,8 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Safety
+- [Anthropic's Frontier Safety Roadmap](https://www.anthropic.com/responsible-scaling-policy/roadmap)
+- [An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [Anthropic Responsible Scaling Policy](https://www.anthropic.com/rsp)
 - [OpenAI Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework/)
@@ -160,8 +162,9 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 ## AI Benchmarks & Leaderboards
 - [BenchmarkList - one place to track AI benchmarks, models, and capabilities](https://benchmarklist.com/)
 - [LMCouncil - AI Model Benchmarks / 20 benchmarks - the world's most-followed benchmarks](https://lmcouncil.ai/benchmarks)
-- [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
 - [Artificial Analysis](https://artificialanalysis.ai/)
+- [OpenRouter - LLM Leaderboard](https://openrouter.ai/rankings)
+- [Fireworks AI - Specialized Intelligence Index](https://fireworks.ai/specialized-intelligence-index/)
 - [Epoch AI - Notable AI Models](https://epoch.ai/data/notable-ai-models)
 - [Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard)
 - [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
