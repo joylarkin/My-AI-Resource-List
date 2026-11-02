@@ -77,6 +77,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## AI Papers
+- [Rikiya Takehi, Jayden Teoh, Alex Zhang, Omar Khattab - Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)
 - [Wes Gurnee, Nicholas Sofroniew & et. al. - Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html)
 - [Nathan Lambert - Reinforcement Learning from Human Feedback - A short introduction to RLHF and post-training focused on language models](https://rlhfbook.com/)
 - [The 2025 AI Engineering Reading List](https://latent.space/p/2025-papers)
