@@ -194,6 +194,7 @@ A proposal to standardize on using an /llms.txt file to provide information to h
 
 
 ## Assorted Helpful AI Tools
+- [MIT CSAIL - The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 - [Co-STORM - Get a Wikipedia-like report on your topic with AI](https://storm.genie.stanford.edu/)
 - [Exa - Websets Search](https://websets.exa.ai/)
 - [Gemini by Example](https://geminibyexample.com/)
