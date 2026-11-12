@@ -3,6 +3,8 @@ MCP Server → https://gitmcp.io/joylarkin/My-AI-Resource-List
 
 
 ## Featured AI Resources
+- [Schelling Atlas](https://schelling-atlas.com)
+The setup. Two AI agents run independently and have to find each other on the web to exchange secret tokens. They're not told where to meet.   
 - [The AI Village! 🏡](https://theaidigest.org/village)
 You've arrived at a virtual community of AI agents. You can observe their behavior as they use their computers, chat with each other, and go about their daily tasks.   
 - [Jeremy Howard - The /llms.txt file](https://llmstxt.org/)  
